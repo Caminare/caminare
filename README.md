@@ -7,7 +7,8 @@
 </div>
   
 - 🔭 I’m currently working on .NET/Angular/SQL stack
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning Go Lang and Crypto
+- 💬 Ask me about .NET/Angular
 
 <!--
 **Caminare/caminare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
