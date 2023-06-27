@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caminare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-- 🔭 I’m currently working on .NET/Angular/SQL stack
-- 🌱 I’m currently learning Go Lang and Crypto
-- 💬 Ask me about .NET/Angular
+- 🔭 I’m currently working on Java/Kotlin/React
+- 🌱 I’m currently learning Java/Kotlin/Go Lang
+- 💬 Ask me about .NET/Angular/SQL
 
 <!--
 **Caminare/caminare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
